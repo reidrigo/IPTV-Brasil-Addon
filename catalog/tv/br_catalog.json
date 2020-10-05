@@ -91,6 +91,24 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_boomerang",
+      "type": "tv",
+      "name": "BOOMERANG",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/2zYTb7J.png",
+      "poster": "https://i.imgur.com/IWVM2MP.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_canalbrasil",
+      "type": "tv",
+      "name": "CANAL BRASIL",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/Lp47DXE.png",
+      "poster": "https://i.imgur.com/1zrjWZP.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
