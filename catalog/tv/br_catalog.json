@@ -37,6 +37,15 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_band",
+      "type": "tv",
+      "name": "BAND",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/oL1SdRp.png",
+      "poster": "https://i.imgur.com/9BYhDP1.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
