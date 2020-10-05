@@ -10,6 +10,15 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_amc",
+      "type": "tv",
+      "name": "AMC",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/AHl1NOe.png",
+      "poster": "https://i.imgur.com/TDKB1ae.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_animal",
       "type": "tv",
       "name": "Animal Planet",
