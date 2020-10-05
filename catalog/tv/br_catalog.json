@@ -4,13 +4,18 @@
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
-      "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",
+      "description": "Fashion TV Paris All Quality Streams. Live",
+      "language": "Portugûes",
+      "logo": "https://logospng.org/wp-content/uploads/sbt.png",
       "poster": "https://logospng.org/wp-content/uploads/sbt.png",
+      "posterShape": "landscape"
     },
     {
       "id": "br_globo",
       "type": "tv",
       "name": "GLOBO",
+      "description": "Fashion TV Midnight Secrets All Quality Streams. Live",
+      "language": "Portugûes",
       "logo": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
       "poster": "https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg"
     }
