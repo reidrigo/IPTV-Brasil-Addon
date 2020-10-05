@@ -4,21 +4,15 @@
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
-      "description": "Fashion TV Paris All Quality Streams. Live",
-      "language": "Portugûes",
-      "logo": "https://logospng.org/wp-content/uploads/sbt.png",
+      "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/4/41/Logotipo_do_SBT.svg/1200px-Logotipo_do_SBT.svg.png",
       "poster": "https://logospng.org/wp-content/uploads/sbt.png",
-      "posterShape": "landscape"
     },
     {
-      "id": "ftv_midnight",
+      "id": "br_globo",
       "type": "tv",
-      "name": "Midnight Secrets FTV",
-      "description": "Fashion TV Midnight Secrets All Quality Streams. Live",
-      "language": "English",
-      "country": "English",
-      "logo": "https://images004-a.erosnow.com/tv/livechannel/01_FTV_Midnight_Secrets_948.jpg",
-      "poster": "https://images004-a.erosnow.com/tv/livechannel/01_FTV_Midnight_Secrets_948.jpg"
+      "name": "GLOBO",
+      "logo": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
+      "poster": "https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg"
     }
   ]
 }
