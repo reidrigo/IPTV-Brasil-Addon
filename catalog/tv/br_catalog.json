@@ -23,7 +23,7 @@
       "type": "tv",
       "name": "Animal Planet",
       "language": "Portugûes",
-      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",
+      "logo": "https://i.imgur.com/ZFk6TzX.png",
       "poster": "https://i.imgur.com/virusvW.png",
       "posterShape": "landscape"
     },
@@ -43,6 +43,15 @@
       "language": "Portugûes",
       "logo": "https://i.imgur.com/ToYRCum.png",
       "poster": "https://i.imgur.com/27cZb3H.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_babytv",
+      "type": "tv",
+      "name": "BABY TV",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/A7AVRcm.png",
+      "poster": "https://i.imgur.com/8ADdTJT.png",
       "posterShape": "landscape"
     },
 	{
