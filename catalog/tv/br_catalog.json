@@ -46,6 +46,33 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_bnews",
+      "type": "tv",
+      "name": "BAND NEWS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/frxoFX0.png",
+      "poster": "https://i.imgur.com/kSPQibR.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_bsports",
+      "type": "tv",
+      "name": "BAND SPORTS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/M7aX4pc.png",
+      "poster": "https://i.imgur.com/Gc0o5aw.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_bis",
+      "type": "tv",
+      "name": "BIS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/As6dtJG.png",
+      "poster": "https://i.imgur.com/2GcJrhZ.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
