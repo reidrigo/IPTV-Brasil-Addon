@@ -1,10 +1,27 @@
 {
   "metas": [
     {
+      "id": "br_ae",
+      "type": "tv",
+      "name": "A&E",
+      "language": "Portugûes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/A%26E_Network_logo.svg",
+      "poster": "https://i.imgur.com/gHX1WjH.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_animal",
+      "type": "tv",
+      "name": "Animal Planet",
+      "language": "Portugûes",
+      "logo": "https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg",
+      "poster": "https://i.imgur.com/virusvW.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
-      "description": "Fashion TV Paris All Quality Streams. Live",
       "language": "Portugûes",
       "logo": "https://logospng.org/wp-content/uploads/sbt.png",
       "poster": "https://logospng.org/wp-content/uploads/sbt.png",
@@ -14,7 +31,6 @@
       "id": "br_globo",
       "type": "tv",
       "name": "GLOBO",
-      "description": "Fashion TV Midnight Secrets All Quality Streams. Live",
       "language": "Portugûes",
       "logo": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
       "poster": "https://i.imgur.com/RPpgtYg.png"
