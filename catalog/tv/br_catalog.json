@@ -19,6 +19,24 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_arte",
+      "type": "tv",
+      "name": "Arte 1",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/zw3uvdO.png",
+      "poster": "https://i.imgur.com/3cJeAnq.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_axn",
+      "type": "tv",
+      "name": "AXN",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/ToYRCum.png",
+      "poster": "https://i.imgur.com/27cZb3H.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
