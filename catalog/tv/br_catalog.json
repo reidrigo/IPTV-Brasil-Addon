@@ -1,0 +1,24 @@
+{
+  "metas": [
+    {
+      "id": "br_sbt",
+      "type": "tv",
+      "name": "SBT",
+      "description": "Fashion TV Paris All Quality Streams. Live",
+      "language": "Portugûes",
+      "logo": "https://logospng.org/wp-content/uploads/sbt.png",
+      "poster": "https://logospng.org/wp-content/uploads/sbt.png",
+      "posterShape": "landscape"
+    },
+    {
+      "id": "ftv_midnight",
+      "type": "tv",
+      "name": "Midnight Secrets FTV",
+      "description": "Fashion TV Midnight Secrets All Quality Streams. Live",
+      "language": "English",
+      "country": "English",
+      "logo": "https://images004-a.erosnow.com/tv/livechannel/01_FTV_Midnight_Secrets_948.jpg",
+      "poster": "https://images004-a.erosnow.com/tv/livechannel/01_FTV_Midnight_Secrets_948.jpg"
+    }
+  ]
+}

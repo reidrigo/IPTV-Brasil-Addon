@@ -1,0 +1,24 @@
+{
+	"id": "iptv.brasil.addon",
+	"version": "0.0.1",
+	"logo": "https://static.wixstatic.com/media/95c487_9af9dc7571bc4f709b09867a52bc23e3~mv2.png/v1/fill/w_200,h_127,al_c,q_85,usm_0.66_1.00_0.01/LOGO.webp",
+	"name": "IPTV Brasil",
+	"description": "Live streams from various Brazilian channels in various qualities.",
+	"resources": [
+		"catalog",
+		"meta",
+		"stream"
+	],
+	"types": [
+		"tv"
+	],
+	"idPrefixes": [
+		"br_"
+	],
+	"catalogs": [
+		{
+			"type": "tv",
+			"id": "br_catalog"
+		}
+	]
+}
