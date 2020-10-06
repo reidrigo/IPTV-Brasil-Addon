@@ -109,12 +109,57 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_cartoon",
+      "type": "tv",
+      "name": "CARTOON NETWORK",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/XnHWxdy.jpg",
+      "poster": "https://i.imgur.com/1zrjWZP.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_cinemax",
+      "type": "tv",
+      "name": "CINEMAX",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/KqodTbB.png",
+      "poster": "https://i.imgur.com/cjqTOR4.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_combate",
+      "type": "tv",
+      "name": "COMBATE",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/6iRTOs1.png",
+      "poster": "https://i.imgur.com/42McjLg.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_comedy",
+      "type": "tv",
+      "name": "COMEDY CENTRAL",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/6bfVsGz.png",
+      "poster": "https://i.imgur.com/42McjLg.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_cultura",
+      "type": "tv",
+      "name": "CULTURA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/lfLyZ9L.png",
+      "poster": "https://i.imgur.com/AgNmAdg.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
       "language": "Portugûes",
-      "logo": "https://logospng.org/wp-content/uploads/sbt.png",
-      "poster": "https://logospng.org/wp-content/uploads/sbt.png",
+      "logo": "https://i.imgur.com/Mj9NpcU.png",
+      "poster": "https://i.imgur.com/TKwNOYF.png",
       "posterShape": "landscape"
     },
     {
@@ -122,7 +167,7 @@
       "type": "tv",
       "name": "GLOBO",
       "language": "Portugûes",
-      "logo": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
+      "logo": "https://i.imgur.com/94teySC.png",
       "poster": "https://i.imgur.com/RPpgtYg.png"
     }
   ]
