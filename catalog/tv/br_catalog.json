@@ -113,8 +113,8 @@
       "type": "tv",
       "name": "CARTOON NETWORK",
       "language": "Portugûes",
-      "logo": "https://i.imgur.com/XnHWxdy.jpg",
-      "poster": "https://i.imgur.com/1zrjWZP.png",
+      "logo": "https://i.imgur.com/GafuliG.png",
+      "poster": "https://i.imgur.com/1oXvACJ.png",
       "posterShape": "landscape"
     },
 	{
@@ -154,6 +154,303 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_curta",
+      "type": "tv",
+      "name": "CURTA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/Wx85vw3.png",
+      "poster": "https://i.imgur.com/7XAh5Ed.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_dchannel",
+      "type": "tv",
+      "name": "DISCOVERY CHANNEL",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/7rQjUVa.png",
+      "poster": "https://i.imgur.com/oAHBUzg.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_dcivilization",
+      "type": "tv",
+      "name": "DISCOVERY CIVILIZATION",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/PAshw7W.png",
+      "poster": "https://i.imgur.com/AAneBao.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_dhh",
+      "type": "tv",
+      "name": "DISCOVERY HOME & HEALTH",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/2z01saJ.png",
+      "poster": "https://i.imgur.com/7w9RsxO.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_dkids",
+      "type": "tv",
+      "name": "DISCOVERY KIDS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/8liMHrg.png",
+      "poster": "https://i.imgur.com/jxYI5L0.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_dscience",
+      "type": "tv",
+      "name": "DISCOVERY SCIENCE",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/f5dFD0z.png",
+      "poster": "https://i.imgur.com/aJykUsx.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_dtheather",
+      "type": "tv",
+      "name": "DISCOVERY THEATHER",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/ptRU8WT.png",
+      "poster": "https://i.imgur.com/YxEpVOX.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_dturbo",
+      "type": "tv",
+      "name": "DISCOVERY TURBO",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/yHgZqNj.png",
+      "poster": "https://i.imgur.com/FkvXtl5.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_dworld",
+      "type": "tv",
+      "name": "DISCOVERY WORLD",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/fnr5gjP.png",
+      "poster": "https://i.imgur.com/XxHmASp.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_disney",
+      "type": "tv",
+      "name": "DISNEY CHANNEL",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/KD7A5aw.png",
+      "poster": "https://i.imgur.com/dBB8Fug.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_disneyjr",
+      "type": "tv",
+      "name": "DISNEY JUNIOR",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/yIme7AV.png",
+      "poster": "https://i.imgur.com/n6KLnPK.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_disneyxd",
+      "type": "tv",
+      "name": "DISNEY XD",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/bon6NJW.png",
+      "poster": "https://i.imgur.com/1xK9qQE.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_e",
+      "type": "tv",
+      "name": "E!",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/ms6kJv2.png",
+      "poster": "https://i.imgur.com/2cfGruw.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_espn",
+      "type": "tv",
+      "name": "ESPN",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/GqW3733.png",
+      "poster": "https://i.imgur.com/d2aoe2X.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_espn2",
+      "type": "tv",
+      "name": "ESPN 2",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/OQR2MVt.png",
+      "poster": "https://i.imgur.com/HwUmj9e.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_espnbr",
+      "type": "tv",
+      "name": "ESPN BRASIL",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/dpn1w7Y.png",
+      "poster": "https://i.imgur.com/G7aPx0r.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_espnextra",
+      "type": "tv",
+      "name": "ESPN EXTRA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/2Lipxrb.png",
+      "poster": "https://i.imgur.com/ic02ZVj.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_filmarts",
+      "type": "tv",
+      "name": "FILM & ARTS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/z1KSIR0.png",
+      "poster": "https://i.imgur.com/pgyE5I3.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_fishtv",
+      "type": "tv",
+      "name": "FISH TV",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/bAmxt8o.png",
+      "poster": "https://i.imgur.com/JH1jxZk.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_food",
+      "type": "tv",
+      "name": "FOOD NETWORK",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/JZPZMfs.png",
+      "poster": "https://i.imgur.com/zNDkgOS.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_fox",
+      "type": "tv",
+      "name": "FOX",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/9TVSbST.png",
+      "poster": "https://i.imgur.com/Xot6ivx.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_foxlife",
+      "type": "tv",
+      "name": "FOX LIFE",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/y3CXSiC.png",
+      "poster": "https://i.imgur.com/979jALS.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_foxpre1",
+      "type": "tv",
+      "name": "FOX PREMIUM 1",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/tnCN2Gp.png",
+      "poster": "https://i.imgur.com/QynesM9.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_foxpre2",
+      "type": "tv",
+      "name": "FOX PREMIUM 2",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/HPRpTg6.png",
+      "poster": "https://i.imgur.com/kHFinph.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_foxsports",
+      "type": "tv",
+      "name": "FOX SPORTS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/7ZTcLYP.png",
+      "poster": "https://i.imgur.com/Y0KivsF.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_foxsports2",
+      "type": "tv",
+      "name": "FOX SPORTS 2",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/HPRpTg6.png",
+      "poster": "https://i.imgur.com/5DSzapz.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_futura",
+      "type": "tv",
+      "name": "FUTURA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/g5G42Qz.png",
+      "poster": "https://i.imgur.com/vDB5MrK.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_fx",
+      "type": "tv",
+      "name": "FX",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/2UBatDs.png",
+      "poster": "https://i.imgur.com/sPaV4TW.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_gazeta",
+      "type": "tv",
+      "name": "GAZETA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/GSspcE3.png",
+      "poster": "https://i.imgur.com/g0Zfe5g.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_globo",
+      "type": "tv",
+      "name": "GLOBO",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/94teySC.png",
+      "poster": "https://i.imgur.com/KNu3Nl5.png",
+	  "posterShape": "landscape"
+    },
+	{
+      "id": "br_globonews",
+      "type": "tv",
+      "name": "GLOBO NEWS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/YJcbxhl.png",
+      "poster": "https://i.imgur.com/n2n1Y9Z.png",
+	  "posterShape": "landscape"
+    },
+	{
+      "id": "br_gloob",
+      "type": "tv",
+      "name": "GLOOB",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/aCX43dH.png",
+      "poster": "https://i.imgur.com/IzYIDir.png",
+	  "posterShape": "landscape"
+    },
+	{
+      "id": "br_gloobinho",
+      "type": "tv",
+      "name": "GLOOBINHO",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/Ey7c0u4.png",
+      "poster": "https://i.imgur.com/K7Ax84A.png",
+	  "posterShape": "landscape"
+    },
+	{
       "id": "br_sbt",
       "type": "tv",
       "name": "SBT",
@@ -161,14 +458,6 @@
       "logo": "https://i.imgur.com/Mj9NpcU.png",
       "poster": "https://i.imgur.com/TKwNOYF.png",
       "posterShape": "landscape"
-    },
-    {
-      "id": "br_globo",
-      "type": "tv",
-      "name": "GLOBO",
-      "language": "Portugûes",
-      "logo": "https://i.imgur.com/94teySC.png",
-      "poster": "https://i.imgur.com/RPpgtYg.png"
     }
   ]
 }
