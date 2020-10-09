@@ -1,13 +1,1 @@
-{
-  "meta": {
-    "id": "br:globo",
-    "type": "tv",
-    "name": "GLOBO",
-	"logo": "https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",
-    "description": "Rede Globo √© uma rede de televis√£o comercial aberta brasileira com sede na cidade do Rio de Janeiro. √â assistida por mais de 200 milh√µes de pessoas diariamente, sejam elas no Brasil ou no exterior.",
-    "banner": "https://i.imgur.com/RPpgtYg.png",
-    "poster": "https://i.imgur.com/RPpgtYg.png",
-	"background": "https://bibiprado.com.br/wp-content/uploads/2017/06/worldwide-connection-background-ipad-wacom-abstract-images-cool-white-background.jpg",
-	"posterShape" : "landscape"
-  }
-}
+{"meta": { "id": "br:globo", "type": "tv", "name": "GLOBO", "logo": "https://i.imgur.com/94teySC.png", "description": "Rede Globo Ç uma rede de televis∆o comercial aberta brasileira com sede na cidade do Rio de Janeiro. ê assistida por mais de 200 milh‰es de pessoas diariamente, sejam elas no Brasil ou no exterior. ê a segunda maior rede de televis∆o comercial do mundo, atr†s apenas da norte-americana American Broadcasting Company (ABC) sendo que alcanáa 98,56% do territ¢rio brasileiro, cobrindo 5.490 munic°pios e cerca de 99,55% do total da populaá∆o brasileira.", "banner": "https://i.imgur.com/KNu3Nl5.png", "poster": "https://i.imgur.com/KNu3Nl5.png", "background": "https://i.imgur.com/939sixZ.jpg", "posterShape" : "landscape"}} 

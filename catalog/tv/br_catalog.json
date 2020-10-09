@@ -989,6 +989,69 @@
       "logo": "https://i.imgur.com/9hdentE.png",
       "poster": "https://i.imgur.com/QdYk9c2.png",
       "posterShape": "landscape"
+    },
+	{
+	  "id": "br_tvbrasil",
+      "type": "tv",
+      "name": "TV BRASIL",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/MtGRCl2.png",
+      "poster": "https://i.imgur.com/iQl6j3j.png",
+      "posterShape": "landscape"
+    },
+	{
+	  "id": "br_tvcamara",
+      "type": "tv",
+      "name": "TV CÂMARA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/FRLeJIB.png",
+      "poster": "https://i.imgur.com/lDBaAef.png",
+      "posterShape": "landscape"
+    },
+	{
+	  "id": "br_tvescola",
+      "type": "tv",
+      "name": "TV ESCOLA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/xLsBcAP.png",
+      "poster": "https://i.imgur.com/ELpJ9RC.png",
+      "posterShape": "landscape"
+    },
+	{
+	  "id": "br_universal",
+      "type": "tv",
+      "name": "UNIVERSAL CHANNEL",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/LvKG6os.png",
+      "poster": "https://i.imgur.com/w0zCoOM.png",
+      "posterShape": "landscape"
+    },
+	{
+	  "id": "br_vh1",
+      "type": "tv",
+      "name": "VH1",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/xzDjF39.png",
+      "poster": "https://i.imgur.com/n1Kyyds.png",
+      "posterShape": "landscape"
+    },
+	{
+	  "id": "br_viva",
+      "type": "tv",
+      "name": "VIVA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/YWWgnUB.png",
+      "poster": "https://i.imgur.com/2ou0hLZ.png",
+      "posterShape": "landscape"
+    },
+	{
+	  "id": "br_warner",
+      "type": "tv",
+      "name": "WARNER",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/PKYgWD5.png",
+      "poster": "https://i.imgur.com/dTu1gES.png",
+      "posterShape": "landscape"
     }
   ]
 }
