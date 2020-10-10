@@ -2,18 +2,13 @@
 	"streams": [
 		{
 			"url": "http://89.187.177.129:80/193883/193883/61194?token=TRNcUBZZEwoRU1QAC1ECXAEOVgJYVgZcA1QCDgMADgIOUwYBVVcFAAMUSRpAQEVcBVptXl0RWQ8DAQgPSkNCQVNDa1gBEwsSAQJXAAcDFRVGQ1taXBFZCAQAAwpSUgUEAR0WQQxVEwoRBF0BAAwVFUZSSkNcQQ1YXm9VXBAIVFcUC1pECV0dElxYOlxWWVZXABUIFQkRTxtbQ0EbXA9CXlodFlMMRUNRR1NHAhEFAA5VFR4VWlwWV0ZCSBtcQ3VgFB0WVB1FVF5AXwpWEQ4VTRcVHhVQQDxLV0NFSwMAWldEEw4TVRMdEl5XHWdQW1lXAVRGXlZdEBsIEgAbSkNaXVhYQF4XbkFZVxRfGgEDBQBGSg==",
-			"title": "A&E (1)",
+			"title": "AMC (1)",
 			"name": "IPTV Brasil"
 		},
 		{
 			"url": "http://ts.ec.cx:1080/hls1/amc.m3u8",
-			"title": "A&E (3)",
+			"title": "AMC (2)",
 			"name": "IPTV Brasil"
-		},
-		{
-			"url": "https://emdhn5hr4n.singularcdn.net.br/Content/HLS_HLS_Clear/Live/channel(AMC_Brasil)/index.m3u8",
-			"title": "A&E (4)",
-			"name": "IPTV Brasil"
-		}		
+		}	
 	]
 }
