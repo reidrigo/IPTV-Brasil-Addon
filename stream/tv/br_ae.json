@@ -1,32 +1,32 @@
 {
 	"streams": [
 		{
-			"url": "http://srv.tvprodigital.net:8080/110175/110175/61196.ts",
+			"url": "http://srv.tvprodigital.net:80/110175/110175/61196.ts",
 			"title": "A&E (1)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://srv.tvprodigital.net:8080/155498/155498/61196.ts",
+			"url": "http://srv.tvprodigital.net:80/155498/155498/61196.ts",
 			"title": "A&E (2)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://tv.factoryiptv.com:8080/Frank/12345/37130.ts",
+			"url": "http://tv.factoryiptv.com:80/Frank/12345/37130.ts",
 			"title": "A&E (3)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://srv.tvprodigital.net:8080/090502/090502/61196.ts",
+			"url": "http://srv.tvprodigital.net:80/090502/090502/61196.ts",
 			"title": "A&E (4)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "ttp://srv.tvprodigital.net:8080/193883/193883/61196.ts",
+			"url": "ttp://srv.tvprodigital.net:80/193883/193883/61196.ts",
 			"title": "A&E (5)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://uruguayiptv.com:8080/12345678/12345678/11309.ts",
+			"url": "http://uruguayiptv.com:25461/12345678/12345678/11309.ts",
 			"title": "A&E (6)",
 			"name": "IPTV Brasil"
 		}
