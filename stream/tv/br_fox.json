@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/fox.m3u8",
+			"title": "FOX (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.139:1234",
+			"title": "FOX (2)",
+			"name": "IPTV Brasil"
+		}
+	]
+}

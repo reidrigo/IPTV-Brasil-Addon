@@ -1,0 +1,9 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/hls1/axn.m3u8",
+			"title": "AXN (1)",
+			"name": "IPTV Brasil"
+		}	
+	]
+}

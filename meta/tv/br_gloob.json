@@ -1,1 +1,13 @@
-{"meta": { "id": "br:gloob", "type": "tv", "name": "GLOOB", "logo": "https://i.imgur.com/aCX43dH.png", "description": "Gloob (lˆ-se: Glubi) ‚ um canal de televisÆo por assinatura brasileiro que pertence a Globosat lan‡ado no dia 15 de junho de 2012, direcionado ao p£blico infantil. Seu nome ‚ um anagrama da palavra Globo, invertendo a letra "O" antes do "B". Tamb‚m transmite sua programa‡Æo em high definition (HD) em versÆo simulcast (SD).", "banner": "https://i.imgur.com/IzYIDir.png", "poster": "https://i.imgur.com/IzYIDir.png", "background": "https://i.imgur.com/939sixZ.jpg", "posterShape" : "landscape"}} 
+{
+	"meta": {
+		"id": "br:gloob",
+		"type": "tv",
+		"name": "GLOOB",
+		"logo": "https://i.imgur.com/aCX43dH.png",
+		"description": "Gloob (lê-se: Glubi) é um canal de televisão por assinatura brasileiro que pertence a Globosat lan‡ado no dia 15 de junho de 2012, direcionado ao público infantil. Seu nome é um anagrama da palavra Globo, invertendo a letra O antes do B. Também transmite sua programação em high definition (HD) em versão simulcast (SD).",
+		"banner": "https://i.imgur.com/IzYIDir.png",
+		"poster": "https://i.imgur.com/IzYIDir.png",
+		"background": "https://i.imgur.com/939sixZ.jpg",
+		"posterShape": "landscape"
+	}
+}

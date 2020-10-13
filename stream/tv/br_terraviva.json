@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"url": "https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w737598332.m3u8",
+			"title": "TERRA VIVA (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "https://evpp.mm.uol.com.br/band_live/terraviva/chunklist_w1341397686.m3u8",
+			"title": "TERRA VIVA (2)",
+			"name": "IPTV Brasil"
+		}		
+	]
+}

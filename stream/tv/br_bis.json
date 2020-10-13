@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/hls1/bis.m3u8",
+			"title": "BIS (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://192.95.30.205:8080/live/oTkjUECQHLy5xm/n87NwGSjUGjx/45.m3u8",
+			"title": "BIS (2)",
+			"name": "IPTV Brasil"
+		}		
+	]
+}

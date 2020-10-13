@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/futura.m3u8",
+			"title": "FUTURA (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "https://5a1c76baf08c0.streamlock.net/z01-live/stream/chunklist.m3u8",
+			"title": "FUTURA (1)",
+			"name": "IPTV Brasil"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"ytId": "w-qd1RTuBTc",
+			"title": "NOVO TEMPO (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/video.m3u8",
+			"title": "NOVO TEMPO (2)",
+			"name": "IPTV Brasil"
+		}			
+	]
+}

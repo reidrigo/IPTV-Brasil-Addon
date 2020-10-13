@@ -1,0 +1,24 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/nick.m3u8",
+			"title": "NICKELODEON (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "https://origin-02.nxplay.com.br/NICK_BR_HD_NXPLAY/video.m3u8",
+			"title": "NICKELODEON (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/364.m3u8",
+			"title": "NICKELODEON (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/366.m3u8",
+			"title": "NICKELODEON (4)",
+			"name": "IPTV Brasil"
+		}					
+	]
+}

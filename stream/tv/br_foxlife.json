@@ -1,0 +1,9 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/foxlife.m3u8",
+			"title": "FOX LIFE (1)",
+			"name": "IPTV Brasil"
+		}	
+	]
+}

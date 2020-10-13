@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"url": "https://origin-02.nxplay.com.br/TV_ESCOLA/video.m3u8",
+			"title": "TV ESCOLA (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "https://video-rvd-df-gw-1-1.rnp.br/live/ocp(t(Fj2Upkr3Tog)r(fVR9ug)a(vROeZw)p(d(2xc)k(q8A)m(5-AWMNPOPdfbuer33XkmBw)n(a(uDHeeQ)s(85Q)'a(ZMTZPQ)s(55U)))s(s(hak)b(BJrgM4mzIcyNkONTYupzLfFHR2OPh0Yt8LBL82-lYksJzQhSTKiETjUO1RDp0DSmZ19UGlJno8YEJClcCA)'s(Ri4)b(TrxCBnHGMC8wjc2ikXjijDoiZ-dEkQOK2beI7Kakl9x1UJAk-cuTZe4-s1Ds523NS-UCWpYhshSO9aUTZANwqLoDyiWd3Iq0UbJFjoON)'s(RmY)b(oXhMT6pv))m(0))/tvescola_index.m3u8",
+			"title": "TV ESCOLA (2)",
+			"name": "IPTV Brasil"
+		}				
+	]
+}

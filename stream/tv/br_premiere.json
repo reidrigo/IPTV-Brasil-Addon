@@ -1,0 +1,134 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/premiereclubes.m3u8",
+			"title": "PREMIERE CLUBES (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.102:1234",
+			"title": "PREMIERE CLUBES (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/404.m3u8",
+			"title": "PREMIERE CLUBES (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/406.m3u8",
+			"title": "PREMIERE CLUBES (4)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/premiere2.m3u8",
+			"title": "PREMIERE 2 (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.104:1234",
+			"title": "PREMIERE 2 (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/380.m3u8",
+			"title": "PREMIERE 2 (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/382.m3u8",
+			"title": "PREMIERE 2 (4)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/premiere3.m3u8",
+			"title": "PREMIERE 3 (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.105:1234",
+			"title": "PREMIERE 3 (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/384.m3u8",
+			"title": "PREMIERE 3 (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/386.m3u8",
+			"title": "PREMIERE 3 (4)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/premiere4.m3u8",
+			"title": "PREMIERE 4 (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.106:1234",
+			"title": "PREMIERE 4 (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/388.m3u8",
+			"title": "PREMIERE 4 (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/390.m3u8",
+			"title": "PREMIERE 4 (4)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/premiere5.m3u8",
+			"title": "PREMIERE 5 (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.107:1234",
+			"title": "PREMIERE 5 (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/392.m3u8",
+			"title": "PREMIERE 5 (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/394.m3u8",
+			"title": "PREMIERE 5 (4)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/premiere6.m3u8",
+			"title": "PREMIERE 6 (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.123:1234",
+			"title": "PREMIERE 6 (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/396.m3u8",
+			"title": "PREMIERE 6 (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/398.m3u8",
+			"title": "PREMIERE 6 (4)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/400.m3u8",
+			"title": "PREMIERE 7 (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/402.m3u8",
+			"title": "PREMIERE 7 (2)",
+			"name": "IPTV Brasil"
+		}																
+	]
+}

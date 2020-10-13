@@ -1,0 +1,24 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/telecinepipoca.m3u8",
+			"title": "TELECINE PIPOCA (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.87:1234",
+			"title": "TELECINE PIPOCA (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/494.m3u8",
+			"title": "TELECINE PIPOCA (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/496.m3u8",
+			"title": "TELECINE PIPOCA (4)",
+			"name": "IPTV Brasil"
+		}					
+	]
+}

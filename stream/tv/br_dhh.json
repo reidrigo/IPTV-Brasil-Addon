@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/discoveryhomeihealth.m3u8",
+			"title": "DISCOVERY HOME & HEALTH (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.85:1234",
+			"title": "DISCOVERY HOME & HEALTH (2)",
+			"name": "IPTV Brasil"
+		}		
+	]
+}

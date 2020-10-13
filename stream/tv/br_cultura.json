@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"url": "https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/video.m3u8",
+			"title": "CULTURA (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "https://cdn.jmvstream.com/w/LVW-8403/ngrp:LVW8403_bIBvekk9QA_all/chunklist_b2097152.m3u8",
+			"title": "CULTURA (2)",
+			"name": "IPTV Brasil"
+		}		
+	]
+}

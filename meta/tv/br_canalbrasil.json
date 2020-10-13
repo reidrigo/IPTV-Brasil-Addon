@@ -1,1 +1,13 @@
-{"meta": { "id": "br:canalbrasil", "type": "tv", "name": "CANAL BRASIL", "logo": "https://i.imgur.com/Lp47DXE.png", "description": "Canal Brasil ‚ um canal de televisÆo por assinatura brasileiro que estreou em 18 de setembro de 1998, com a exibi‡Æo do filme Sonho sem fim, de Lauro Escorel Filho. Foi criado para aproveitar a obriga‡Æo criada pelo Decreto 2206, de 1997, que obrigava todos os prestadores de servi‡os de TV a cabo brasileiros a incluir na sua grade pelo menos um canal dedicado a "obras cinematogr ficas e audiovisuais brasileiras de produ‡Æo independente".", "banner": "https://i.imgur.com/1zrjWZP.png", "poster": "https://i.imgur.com/1zrjWZP.png", "background": "https://i.imgur.com/939sixZ.jpg", "posterShape" : "landscape"}} 
+{
+	"meta": {
+		"id": "br:canalbrasil",
+		"type": "tv",
+		"name": "CANAL BRASIL",
+		"logo": "https://i.imgur.com/Lp47DXE.png",
+		"description": "Canal Brasil ‚ um canal de televisão por assinatura brasileiro que estreou em 18 de setembro de 1998, com a exibição do filme Sonho sem fim, de Lauro Escorel Filho. Foi criado para aproveitar a obrigação criada pelo Decreto 2206, de 1997, que obrigava todos os prestadores de serviços de TV a cabo brasileiros a incluir na sua grade pelo menos um canal dedicado a obras cinematográficas e audiovisuais brasileiras de produção independente.",
+		"banner": "https://i.imgur.com/1zrjWZP.png",
+		"poster": "https://i.imgur.com/1zrjWZP.png",
+		"background": "https://i.imgur.com/939sixZ.jpg",
+		"posterShape": "landscape"
+	}
+}

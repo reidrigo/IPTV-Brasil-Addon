@@ -91,15 +91,6 @@
       "posterShape": "landscape"
     },
 	{
-      "id": "br_bloomberg",
-      "type": "tv",
-      "name": "BLOOMBERG",
-      "language": "Portugûes",
-      "logo": "https://i.imgur.com/PQhvQ82.png",
-      "poster": "https://i.imgur.com/9Jwl4vf.png",
-      "posterShape": "landscape"
-    },
-	{
       "id": "br_boavontade",
       "type": "tv",
       "name": "BOA VONTADE TV",
@@ -214,15 +205,6 @@
       "language": "Portugûes",
       "logo": "https://i.imgur.com/7rQjUVa.png",
       "poster": "https://i.imgur.com/oAHBUzg.png",
-      "posterShape": "landscape"
-    },
-	{
-      "id": "br_dcivilization",
-      "type": "tv",
-      "name": "DISCOVERY CIVILIZATION",
-      "language": "Portugûes",
-      "logo": "https://i.imgur.com/PAshw7W.png",
-      "poster": "https://i.imgur.com/AAneBao.png",
       "posterShape": "landscape"
     },
 	{
@@ -352,15 +334,6 @@
       "posterShape": "landscape"
     },
 	{
-      "id": "br_filmarts",
-      "type": "tv",
-      "name": "FILM & ARTS",
-      "language": "Portugûes",
-      "logo": "https://i.imgur.com/z1KSIR0.png",
-      "poster": "https://i.imgur.com/pgyE5I3.png",
-      "posterShape": "landscape"
-    },
-	{
       "id": "br_fishtv",
       "type": "tv",
       "name": "FISH TV",
@@ -419,7 +392,7 @@
       "type": "tv",
       "name": "FOX SPORTS",
       "language": "Portugûes",
-      "logo": "https://i.imgur.com/7ZTcLYP.png",
+      "logo": "https://i.imgur.com/cpTTVAq.png",
       "poster": "https://i.imgur.com/Y0KivsF.png",
       "posterShape": "landscape"
     },
@@ -428,7 +401,7 @@
       "type": "tv",
       "name": "FOX SPORTS 2",
       "language": "Portugûes",
-      "logo": "https://i.imgur.com/HPRpTg6.png",
+      "logo": "https://i.imgur.com/VCctYBA.png",
       "poster": "https://i.imgur.com/5DSzapz.png",
       "posterShape": "landscape"
     },
@@ -577,6 +550,15 @@
 	  "posterShape": "landscape"
     },
 	{
+      "id": "br_hgtv",
+      "type": "tv",
+      "name": "HGTV",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/mzVyPC3.png",
+      "poster": "https://i.imgur.com/3FO85MA.png",
+	  "posterShape": "landscape"
+    },
+	{
 	  "id": "br_history",
       "type": "tv",
       "name": "HISTORY CHANNEL",
@@ -666,13 +648,13 @@
       "poster": "https://i.imgur.com/fvAyU3U.png",
 	  "posterShape": "landscape"
     },
-	{
-	  "id": "br_nhk",
+		{
+	  "id": "br_nick",
       "type": "tv",
-      "name": "NHK WORLD PREMIUM",
+      "name": "NICKELODEON",
       "language": "Portugûes",
-      "logo": "https://i.imgur.com/Fg7Ud1z.png",
-      "poster": "https://i.imgur.com/iiRUNKe.png",
+      "logo": "https://i.imgur.com/usCzHlG.png",
+      "poster": "https://i.imgur.com/AYJTH79.png",
 	  "posterShape": "landscape"
     },
 	{
@@ -682,15 +664,6 @@
       "language": "Portugûes",
       "logo": "https://i.imgur.com/Yewk9vv.png",
       "poster": "https://i.imgur.com/prL65Vj.png",
-	  "posterShape": "landscape"
-    },
-	{
-	  "id": "br_nick",
-      "type": "tv",
-      "name": "NICKELODEON",
-      "language": "Portugûes",
-      "logo": "https://i.imgur.com/usCzHlG.png",
-      "poster": "https://i.imgur.com/AYJTH79.png",
 	  "posterShape": "landscape"
     },
 	{
@@ -946,21 +919,21 @@
       "posterShape": "landscape"
     },
 	{
-      "id": "br_tnt",
+      "id": "br_tlc",
       "type": "tv",
-      "name": "TNT",
+      "name": "LC",
       "language": "Portugûes",
       "logo": "https://i.imgur.com/XiYrADk.png",
       "poster": "https://i.imgur.com/vm99wNJ.png",
       "posterShape": "landscape"
     },
 	{
-      "id": "br_tntseries",
+      "id": "br_tnt",
       "type": "tv",
-      "name": "TNT SÉRIES",
+      "name": "TNT",
       "language": "Portugûes",
-      "logo": "https://i.imgur.com/AEHbuVu.png",
-      "poster": "https://i.imgur.com/SNcD4Ev.png",
+      "logo": "https://i.imgur.com/XiYrADk.png",
+      "poster": "https://i.imgur.com/vm99wNJ.png",
       "posterShape": "landscape"
     },
 	{
@@ -979,15 +952,6 @@
       "language": "Portugûes",
       "logo": "https://imgur.com/0WRknRU",
       "poster": "https://i.imgur.com/jENwY6D.png",
-      "posterShape": "landscape"
-    },
-	{
-      "id": "br_trutv",
-      "type": "tv",
-      "name": "TRUTV",
-      "language": "Portugûes",
-      "logo": "https://i.imgur.com/9hdentE.png",
-      "poster": "https://i.imgur.com/QdYk9c2.png",
       "posterShape": "landscape"
     },
 	{

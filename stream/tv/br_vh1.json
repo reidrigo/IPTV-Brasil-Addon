@@ -1,0 +1,9 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/vh1hd.m3u8",
+			"title": "VH1 (1)",
+			"name": "IPTV Brasil"
+		}	
+	]
+}

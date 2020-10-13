@@ -1,0 +1,19 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/universal.m3u8",
+			"title": "UNIVERSAL CHANNEL (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/470.m3u8",
+			"title": "UNIVERSAL CHANNEL (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/472.m3u8",
+			"title": "UNIVERSAL CHANNEL (3)",
+			"name": "IPTV Brasil"
+		}				
+	]
+}

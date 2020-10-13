@@ -1,1 +1,13 @@
-{"meta": { "id": "br:sportv2", "type": "tv", "name": "SPORTV 2", "logo": "https://i.imgur.com/20lQXLh.png", "description": "O SporTV 2 foi lan‡ado em dezembro de 2003.[10] O segundo canal SporTV reexibe os eventos de futebol transmitidos pelo canal principal, al‚m de transmitir competi‡äes simultƒneas ao vivo, com foco nos chamados "Outros esportes" (Automobilismo, Basquetebol, desportos aqu ticos, Motovelocidade e Voleibol, entre outros).", "banner": "https://i.imgur.com/m6prM14.png", "poster": "https://i.imgur.com/m6prM14.png", "background": "https://i.imgur.com/939sixZ.jpg", "posterShape" : "landscape"}} 
+{
+	"meta": {
+		"id": "br:sportv2",
+		"type": "tv",
+		"name": "SPORTV 2",
+		"logo": "https://i.imgur.com/20lQXLh.png",
+		"description": "O SporTV 2 foi lan‡ado em dezembro de 2003.[10] O segundo canal SporTV reexibe os eventos de futebol transmitidos pelo canal principal, al‚m de transmitir competi‡äes simultƒneas ao vivo, com foco nos chamados Outros esportes (Automobilismo, Basquetebol, desportos aqu ticos, Motovelocidade e Voleibol, entre outros).",
+		"banner": "https://i.imgur.com/m6prM14.png",
+		"poster": "https://i.imgur.com/m6prM14.png",
+		"background": "https://i.imgur.com/939sixZ.jpg",
+		"posterShape": "landscape"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/foxpremium2.m3u8",
+			"title": "FOX PREMIUM 2 (1)",
+			"name": "IPTV Brasil"
+		}
+		
+	]
+}

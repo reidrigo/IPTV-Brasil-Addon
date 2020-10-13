@@ -1,0 +1,14 @@
+{
+	"streams": [
+		{
+			"url": "http://ts.ec.cx:1080/a/hls1/foxsports2.m3u8",
+			"title": "FOX SPORTS 2 (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://189.91.128.150:5555/udp/227.10.20.132:1234",
+			"title": "FOX SPORTS 2 (2)",
+			"name": "IPTV Brasil"
+		}
+	]
+}
