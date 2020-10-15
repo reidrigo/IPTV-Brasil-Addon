@@ -49,7 +49,7 @@
 			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/394.m3u8",
 			"title": "PREMIERE 5 (2)",
 			"name": "IPTV Brasil"
-		}
+		},
 		{
 			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/396.m3u8",
 			"title": "PREMIERE 6 (1)",
@@ -69,6 +69,6 @@
 			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/402.m3u8",
 			"title": "PREMIERE 7 (2)",
 			"name": "IPTV Brasil"
-		}																
+		}
 	]
 }
