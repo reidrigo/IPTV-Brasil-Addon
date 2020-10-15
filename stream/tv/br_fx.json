@@ -1,12 +1,12 @@
 {
 	"streams": [
 		{
-			"url": "http://ts.ec.cx:1080/a/hls1/fx.m3u8",
+			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/312.m3u8",
 			"title": "FX (1)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://189.91.128.150:5555/udp/227.10.20.138:1234",
+			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/314.m3u8",
 			"title": "FX (2)",
 			"name": "IPTV Brasil"
 		}

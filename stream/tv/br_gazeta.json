@@ -1,13 +1,8 @@
 {
 	"streams": [
 		{
-			"url": "http://ts.ec.cx:1080/a/hls1/gazeta.m3u8",
-			"title": "GAZETA (1)",
-			"name": "IPTV Brasil"
-		},
-		{
 			"url": "https://stmv4.srvstm.com/wagner1168/wagner1168/chunklist.m3u8",
-			"title": "GAZETA (2)",
+			"title": "GAZETA (1)",
 			"name": "IPTV Brasil"
 		}
 	]

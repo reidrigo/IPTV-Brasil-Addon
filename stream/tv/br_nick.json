@@ -1,11 +1,6 @@
 {
 	"streams": [
 		{
-			"url": "http://ts.ec.cx:1080/a/hls1/nick.m3u8",
-			"title": "NICKELODEON (1)",
-			"name": "IPTV Brasil"
-		},
-		{
 			"url": "https://origin-02.nxplay.com.br/NICK_BR_HD_NXPLAY/video.m3u8",
 			"title": "NICKELODEON (2)",
 			"name": "IPTV Brasil"

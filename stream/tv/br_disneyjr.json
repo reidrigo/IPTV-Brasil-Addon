@@ -6,9 +6,14 @@
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://ts.ec.cx:1080/a/hls1/disneyjunior.m3u8",
+			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/258.m3u8",
 			"title": "DISNEY JUNIOR (2)",
 			"name": "IPTV Brasil"
-		}		
+		},
+		{
+			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/260.m3u8",
+			"title": "DISNEY JUNIOR (3)",
+			"name": "IPTV Brasil"
+		}	
 	]
 }

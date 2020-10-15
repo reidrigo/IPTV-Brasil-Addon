@@ -334,6 +334,14 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_fashiontv",
+      "type": "tv",
+      "name": "FASHION TV",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/bAmxt8o.png",
+      "poster": "https://i.imgur.com/JH1jxZk.png",
+      "posterShape": "landscape"
+    },{
       "id": "br_fishtv",
       "type": "tv",
       "name": "FISH TV",
@@ -595,6 +603,15 @@
 	  "posterShape": "landscape"
     },
 	{
+	  "id": "br_lovenature",
+      "type": "tv",
+      "name": "LOLE NATURE",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/gfrKSxq.png",
+      "poster": "https://i.imgur.com/hiYPoOc.png",
+	  "posterShape": "landscape"
+    },
+	{
 	  "id": "br_megapix",
       "type": "tv",
       "name": "MEGAPIX",
@@ -612,7 +629,16 @@
       "poster": "https://i.imgur.com/PqsaUY7.png",
 	  "posterShape": "landscape"
     },
-		{
+	{
+	  "id": "br_mtvlive",
+      "type": "tv",
+      "name": "MTV LIVE",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/uz2huRt.png",
+      "poster": "https://i.imgur.com/3UJRmxu.png",
+	  "posterShape": "landscape"
+    },
+	{
 	  "id": "br_multishow",
       "type": "tv",
       "name": "MULTISHOW",
@@ -736,15 +762,6 @@
       "language": "Portugûes",
       "logo": "https://i.imgur.com/1d3dVej.png",
       "poster": "https://i.imgur.com/zrZyF9u.png",
-	  "posterShape": "landscape"
-    },
-	{
-	  "id": "br_redegospel",
-      "type": "tv",
-      "name": "REDE GOSPEL",
-      "language": "Portugûes",
-      "logo": "https://i.imgur.com/iH6w9TJ.png",
-      "poster": "https://i.imgur.com/O3070Bj.png",
 	  "posterShape": "landscape"
     },
 	{
@@ -1015,6 +1032,15 @@
       "language": "Portugûes",
       "logo": "https://i.imgur.com/PKYgWD5.png",
       "poster": "https://i.imgur.com/dTu1gES.png",
+      "posterShape": "landscape"
+    },
+	{
+	  "id": "br_zoomoo",
+      "type": "tv",
+      "name": "ZOOMOO KIDS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/6xWp28y.png",
+      "poster": "https://i.imgur.com/7VAisxF.png",
       "posterShape": "landscape"
     }
   ]
