@@ -334,14 +334,6 @@
       "posterShape": "landscape"
     },
 	{
-      "id": "br_fashiontv",
-      "type": "tv",
-      "name": "FASHION TV",
-      "language": "Portugûes",
-      "logo": "https://i.imgur.com/bAmxt8o.png",
-      "poster": "https://i.imgur.com/JH1jxZk.png",
-      "posterShape": "landscape"
-    },{
       "id": "br_fishtv",
       "type": "tv",
       "name": "FISH TV",
