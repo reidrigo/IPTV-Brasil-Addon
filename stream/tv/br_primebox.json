@@ -1,7 +1,12 @@
 {
 	"streams": [
 		{
-			"url": "http://189.91.128.150:5555/udp/227.10.20.114:1234",
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/408.m3u8",
+			"title": "PRIMEBOX BRAZIL (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/410.m3u8",
 			"title": "PRIMEBOX BRAZIL (1)",
 			"name": "IPTV Brasil"
 		}	

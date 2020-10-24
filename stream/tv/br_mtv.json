@@ -9,11 +9,6 @@
 			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/344.m3u8",
 			"title": "MTV (3)",
 			"name": "IPTV Brasil"
-		},
-		{
-			"url": "https://origin-02.nxplay.com.br/MTV_BR_NX/video.m3u8",
-			"title": "MTV (4)",
-			"name": "IPTV Brasil"
-		}					
+		}
 	]
 }

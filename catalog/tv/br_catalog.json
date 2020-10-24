@@ -307,6 +307,15 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_dogtv",
+      "type": "tv",
+      "name": "DOG TV",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/bon6NJW.png",
+      "poster": "https://i.imgur.com/1xK9qQE.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_e",
       "type": "tv",
       "name": "E!",
@@ -346,6 +355,24 @@
       "id": "br_espnextra",
       "type": "tv",
       "name": "ESPN EXTRA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/2Lipxrb.png",
+      "poster": "https://i.imgur.com/ic02ZVj.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_fashiontv",
+      "type": "tv",
+      "name": "FASHION TV",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/2Lipxrb.png",
+      "poster": "https://i.imgur.com/ic02ZVj.png",
+      "posterShape": "landscape"
+    },
+	{
+      "id": "br_filmarts",
+      "type": "tv",
+      "name": "FILM & ARTS",
       "language": "Portugûes",
       "logo": "https://i.imgur.com/2Lipxrb.png",
       "poster": "https://i.imgur.com/ic02ZVj.png",
@@ -748,6 +775,15 @@
 	  "posterShape": "landscape"
     },
 	{
+	  "id": "br_ratimbum",
+      "type": "tv",
+      "name": "RÁ TIM BUM TV",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/Dc6B5pv.png",
+      "poster": "https://i.imgur.com/1jgcwxW.png",
+	  "posterShape": "landscape"
+    },
+	{
 	  "id": "br_record",
       "type": "tv",
       "name": "RECORD",
@@ -763,6 +799,15 @@
       "language": "Portugûes",
       "logo": "https://i.imgur.com/g6Zp5GK.png",
       "poster": "https://i.imgur.com/LDkmKJe.png",
+	  "posterShape": "landscape"
+    },
+	{
+	  "id": "br_redbull",
+      "type": "tv",
+      "name": "RED BULL TV",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/1d3dVej.png",
+      "poster": "https://i.imgur.com/zrZyF9u.png",
 	  "posterShape": "landscape"
     },
 	{
@@ -1027,6 +1072,15 @@
       "posterShape": "landscape"
     },
 	{
+	  "id": "br_vh1mega",
+      "type": "tv",
+      "name": "VH1 MEGA HITS",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/xzDjF39.png",
+      "poster": "https://i.imgur.com/n1Kyyds.png",
+      "posterShape": "landscape"
+    },
+	{
 	  "id": "br_viva",
       "type": "tv",
       "name": "VIVA",
@@ -1039,6 +1093,15 @@
 	  "id": "br_warner",
       "type": "tv",
       "name": "WARNER",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/PKYgWD5.png",
+      "poster": "https://i.imgur.com/dTu1gES.png",
+      "posterShape": "landscape"
+    },
+	{
+	  "id": "br_woohoo",
+      "type": "tv",
+      "name": "WOOHOO",
       "language": "Portugûes",
       "logo": "https://i.imgur.com/PKYgWD5.png",
       "poster": "https://i.imgur.com/dTu1gES.png",

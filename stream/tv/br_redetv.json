@@ -1,18 +1,13 @@
 {
 	"streams": [
 		{
-			"url": "http://ts.ec.cx:1080/a/hls1/redetv.m3u8",
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/436.m3u8",
 			"title": "REDETV! (1)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://189.91.128.150:5555/udp/227.10.20.122:1234",
-			"title": "REDETV! (2)",
-			"name": "IPTV Brasil"
-		},
-		{
 			"url": "https://streaming.belugacdn.link/hls1/redetv.m3u8?expires=1602564040&token=997d170bdc41448db33e7d2786183fb4",
-			"title": "REDETV! (3)",
+			"title": "REDETV! (2)",
 			"name": "IPTV Brasil"
 		}				
 	]

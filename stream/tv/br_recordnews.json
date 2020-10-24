@@ -1,8 +1,13 @@
 {
 	"streams": [
 		{
-			"ytId": "RpDkRX0cDAY",
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/422.m3u8",
 			"title": "RECORD NEWS (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/424.m3u8",
+			"title": "RECORD NEWS (2)",
 			"name": "IPTV Brasil"
 		}
 	]

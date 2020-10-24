@@ -1,9 +1,14 @@
 {
 	"streams": [
 		{
-			"url": "http://ts.ec.cx:1080/a/hls1/hgtv.m3u8",
+			"url": "http://canais.servidor.tv:8080/ux1kw2/6b0v1p/33265",
 			"title": "HGTV (1)",
 			"name": "IPTV Brasil"
-		}				
+		},
+		{
+			"url": "http://canais.servidor.tv:8080/ux1kw2/6b0v1p/33266",
+			"title": "HGTV (1)",
+			"name": "IPTV Brasil"
+		}	
 	]
 }
