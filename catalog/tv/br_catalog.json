@@ -1,6 +1,15 @@
 {
   "metas": [
     {
+      "id": "br_afazenda",
+      "type": "tv",
+      "name": "A FAZENDA",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/yXRYCQ6.png",
+      "poster": "https://i.imgur.com/jLPL69B.jpg",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_ae",
       "type": "tv",
       "name": "A&E",
