@@ -1,19 +1,9 @@
 {
 	"streams": [
 		{
-			"url": "https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_720.m3u8",
+			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/146.m3u8",
 			"title": "A FAZENDA - 720p",
 			"name": "IPTV Brasil"
-		},
-		{
-			"url": "https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_480.m3u8",
-			"title": "A FAZENDA - 480p",
-			"name": "IPTV Brasil"
-		},
-		{
-			"url": "https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8",
-			"title": "A FAZENDA - 360p",
-			"name": "IPTV Brasil"
-		}			
+		}
 	]
 }
