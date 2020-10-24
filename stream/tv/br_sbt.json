@@ -1,7 +1,7 @@
 {
 	"streams": [
 		{
-			"url": "https://origin-02.nxplay.com.br/TV_SOROCABA_HD_PFZ/video.m3u8",
+			"url": "https://origin-02.nxplay.com.br/TV_SOROCABA_HD_PFZ_NX/video.m3u8",
 			"title": "SBT (3)",
 			"name": "IPTV Brasil"
 		},

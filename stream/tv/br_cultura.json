@@ -1,7 +1,7 @@
 {
 	"streams": [
 		{
-			"url": "https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/video.m3u8",
+			"url": "https://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ/index.m3u8",
 			"title": "CULTURA (1)",
 			"name": "IPTV Brasil"
 		},
