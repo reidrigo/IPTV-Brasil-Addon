@@ -208,6 +208,15 @@
       "posterShape": "landscape"
     },
 	{
+      "id": "br_dazn",
+      "type": "tv",
+      "name": "DAZN",
+      "language": "Portugûes",
+      "logo": "https://i.imgur.com/Wx85vw3.png",
+      "poster": "https://i.imgur.com/7XAh5Ed.png",
+      "posterShape": "landscape"
+    },
+	{
       "id": "br_dchannel",
       "type": "tv",
       "name": "DISCOVERY CHANNEL",

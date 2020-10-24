@@ -1,14 +1,9 @@
 {
 	"streams": [
 		{
-			"ytId": "6DmUXRosnm0",
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/184.m3u8",
 			"title": "BOA VONTADE (1)",
 			"name": "IPTV Brasil"
-		},
-		{
-			"url": "https://playback2.akamaized.net/streams/15107153_4338771_lsinv4da5ofys5ry9ku_1/master.m3u8?dw=14400&hdnts=exp=1602430222~acl=/streams/15107153_4338771_lsinv4da5ofys5ry9ku_1/master.m3u8*~hmac=0510bf6cc1360936ed76b9e6f6aeab939eb26bac6028f37230c7b77f07d07af8",
-			"title": "BOA VONTADE (2)",
-			"name": "IPTV Brasil"
-		}		
+		}
 	]
 }

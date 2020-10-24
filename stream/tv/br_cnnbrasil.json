@@ -6,18 +6,13 @@
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "https://origin-02.nxplay.com.br/CNN_Brazil_HD/video.m3u8",
+			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/204.m3u8",
 			"title": "CNN BRASIL (2)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/204.m3u8",
-			"title": "CNN BRASIL (3)",
-			"name": "IPTV Brasil"
-		},
-		{
 			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/206.m3u8",
-			"title": "CNN BRASIL (4)",
+			"title": "CNN BRASIL (3)",
 			"name": "IPTV Brasil"
 		}		
 	]

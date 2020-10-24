@@ -1,12 +1,12 @@
 {
 	"streams": [
 		{
-			"url": "http://ts.ec.cx:1080/hls1/boomerang.m3u8",
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/186.m3u8",
 			"title": "BOOMERANG (1)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://192.95.30.205:8080/live/oTkjUECQHLy5xm/n87NwGSjUGjx/48.m3u8",
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/188.m3u8",
 			"title": "BOOMERANG (2)",
 			"name": "IPTV Brasil"
 		}		

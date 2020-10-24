@@ -1,8 +1,13 @@
 {
 	"streams": [
 		{
-			"url": "http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8",
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/168.m3u8",
 			"title": "BAND (1)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://lb2.sistema.ovh/live/7bdff30355a82b19e0b174dc1/f03184efb4fe3b3fd98c7dc70/170.m3u8",
+			"title": "BAND (2)",
 			"name": "IPTV Brasil"
 		}
 	]
