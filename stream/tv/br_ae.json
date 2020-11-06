@@ -1,13 +1,24 @@
 {
 	"streams": [
 		{
-			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/148.m3u8",
+			"url": "http://srvx.io:80/live/T7NenQPJyK/fireurl.co/2025.m3u8",
 			"title": "A&E (1)",
 			"name": "IPTV Brasil"
 		},
 		{
-			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/150.m3u8",
+			"url": "http://srvx.io:80/live/T7NenQPJyK/fireurl.co/25400.m3u8",
 			"title": "A&E (2)",
+			"name": "IPTV Brasil"
+		},
+		{
+		
+			"url": "http://srvx.io:80/live/T7NenQPJyK/fireurl.co/1906.m3u8",
+			"title": "A&E (3)",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://srvx.io:80/live/T7NenQPJyK/fireurl.co/1907.m3u8",
+			"title": "A&E (4)",
 			"name": "IPTV Brasil"
 		}		
 	]
