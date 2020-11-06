@@ -1,8 +1,13 @@
 {
 	"streams": [
 		{
-			"url": "http://lb1.sistema.ovh/live/e9411f53d65f6b93972559823/28e82817b6456c98ed86dbfd4/146.m3u8",
+			"url": "http://srvx.io:80/0467707740/fireurl.co/72599",
 			"title": "A FAZENDA - 720p",
+			"name": "IPTV Brasil"
+		},
+		{
+			"url": "http://srvx.io:80/0467707740/fireurl.co/72993",
+			"title": "A FAZENDA - 480p",
 			"name": "IPTV Brasil"
 		}
 	]
